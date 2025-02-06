@@ -1,126 +1,130 @@
 {
-  "name": "Mathametic Test.",
-  "duration": 20,
+  "name": "Science Test",
+  "duration": 45,
+  "standard": "6th",
+  "syllabus": "components of food, sorting material into group, motion, playing with magnet",
+  "numberOfQuestions": 10,
+  "difficultyLevel": "Moderate",
   "questions": {
-      "1": {
-          "question": "What is the value of 5 + (-3)?",
-          "options": {
-              "1": "2",
-              "2": "-2",
-              "3": "8",
-              "4": "-8"
-          },
-          "answer": 1,
-          "correctMarks": 4,
-          "incorrectMarks": -1
+    "1": {
+      "question": "Which of the following is a component of food?",
+      "options": {
+        "1": "Plastic",
+        "2": "Vitamins",
+        "3": "Wood",
+        "4": "Metal"
       },
-      "2": {
-          "question": "Find the ratio of 8 to 24.",
-          "options": {
-              "1": "1:2",
-              "2": "1:3",
-              "3": "2:3",
-              "4": "3:1"
-          },
-          "answer": 2,
-          "correctMarks": 4,
-          "incorrectMarks": -1
+      "answer": 2,
+      "correctMarks": 4,
+      "incorrectMarks": -1
+    },
+    "2": {
+      "question": "Materials can be sorted into groups based on their:",
+      "options": {
+        "1": "Color",
+        "2": "Shape",
+        "3": "Texture",
+        "4": "All of the above"
       },
-      "3": {
-          "question": "Which of the following is a whole number?",
-          "options": {
-              "1": "-3",
-              "2": "1.5",
-              "3": "0",
-              "4": "-1"
-          },
-          "answer": 3,
-          "correctMarks": 4,
-          "incorrectMarks": -1
+      "answer": 4,
+      "correctMarks": 4,
+      "incorrectMarks": -1
+    },
+    "3": {
+      "question": "Which of these is an example of motion?",
+      "options": {
+        "1": "A book on a table",
+        "2": "A car moving down the street",
+        "3": "A tree standing still",
+        "4": "A rock on the ground"
       },
-      "4": {
-          "question": "Solve: 6x = 18. Find x.",
-          "options": {
-              "1": "2",
-              "2": "3",
-              "3": "4",
-              "4": "5"
-          },
-          "answer": 2,
-          "correctMarks": 4,
-          "incorrectMarks": -1
+      "answer": 2,
+      "correctMarks": 4,
+      "incorrectMarks": -1
+    },
+    "4": {
+      "question": "Magnets attract:",
+      "options": {
+        "1": "Plastic",
+        "2": "Wood",
+        "3": "Iron",
+        "4": "Cloth"
       },
-      "5": {
-          "question": "Which of the following is a prime number?",
-          "options": {
-              "1": "15",
-              "2": "21",
-              "3": "17",
-              "4": "27"
-          },
-          "answer": 3,
-          "correctMarks": 4,
-          "incorrectMarks": -1
+      "answer": 3,
+      "correctMarks": 4,
+      "incorrectMarks": -1
+    },
+    "5": {
+      "question": "Which food group provides us with energy?",
+      "options": {
+        "1": "Fruits and Vegetables",
+        "2": "Grains and Carbohydrates",
+        "3": "Dairy Products",
+        "4": "Proteins"
       },
-      "6": {
-          "question": "The mean of 2, 4, 6, 8, 10 is:",
-          "options": {
-              "1": "4",
-              "2": "5",
-              "3": "6",
-              "4": "7"
-          },
-          "answer": 3,
-          "correctMarks": 4,
-          "incorrectMarks": -1
+      "answer": 2,
+      "correctMarks": 4,
+      "incorrectMarks": -1
+    },
+    "6": {
+      "question": "Which of these is NOT a property used to sort materials?",
+      "options": {
+        "1": "Smell",
+        "2": "Taste",
+        "3": "Price",
+        "4": "Size"
       },
-      "7": {
-          "question": "What is the HCF of 12 and 18?",
-          "options": {
-              "1": "2",
-              "2": "3",
-              "3": "6",
-              "4": "12"
-          },
-          "answer": 3,
-          "correctMarks": 4,
-          "incorrectMarks": -1
+      "answer": 3,
+      "correctMarks": 4,
+      "incorrectMarks": -1
+    },
+    "7": {
+      "question": "A change in the position of an object is called:",
+      "options": {
+        "1": "Rest",
+        "2": "Motion",
+        "3": "Force",
+        "4": "Energy"
       },
-      "8": {
-          "question": "Find the mode of 3, 3, 5, 6, 3, 7, 8, 5, 5, 5.",
-          "options": {
-              "1": "3",
-              "2": "5",
-              "3": "6",
-              "4": "7"
-          },
-          "answer": 2,
-          "correctMarks": 4,
-          "incorrectMarks": -1
+      "answer": 2,
+      "correctMarks": 4,
+      "incorrectMarks": -1
+    },
+    "8": {
+      "question": "Which pole of a magnet attracts another magnet?",
+      "options": {
+        "1": "North pole",
+        "2": "South pole",
+        "3": "Both North and South poles",
+        "4": "None of the above"
       },
-      "9": {
-          "question": "Which of the following is divisible by 9?",
-          "options": {
-              "1": "45",
-              "2": "82",
-              "3": "91",
-              "4": "67"
-          },
-          "answer": 1,
-          "correctMarks": 4,
-          "incorrectMarks": -1
+      "answer": 3,
+      "correctMarks": 4,
+      "incorrectMarks": -1
+    },
+    "9": {
+      "question": "Why is a balanced diet important?",
+      "options": {
+        "1": "To gain weight",
+        "2": "For proper growth and development",
+        "3": "To eat a lot of junk food",
+        "4": "To become unhealthy"
       },
-      "10": {
-          "question": "Find the missing term: 2, 4, 8, 16, __, 64.",
-          "options": {
-              "1": "24",
-              "2": "32",
-              "3": "40",
-              "4": "48"
-          },
-          "answer": 2,
-          "correctMarks": 4,
-          "incorrectMarks": -1
-      }
+      "answer": 2,
+      "correctMarks": 4,
+      "incorrectMarks": -1
+    },
+    "10": {
+      "question": "What is the process of grouping similar objects together called?",
+      "options": {
+        "1": "Mixing",
+        "2": "Sorting",
+        "3": "Separating",
+        "4": "Combining"
+      },
+      "answer": 2,
+      "correctMarks": 4,
+      "incorrectMarks": -1
+    }
   }
 }
