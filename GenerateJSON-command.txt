@@ -1,17 +1,14 @@
-Generate me a JSON file for a Test as per the following details
+Generate a JSON file for a test with the following details:
 
-Name of Test = NAME;
-Syllabus = SYLLABUS;
-Standard = STANDARD;
-number of question = NUMBER;
-maximum Time = MAX-TIME (in Minute);
-marks for correct answer = MARK;
-marks for incorrect answer = MARK;
-
-Defficulty level = Moderate;
-
-
-**plaese make sure Generate JSON file in the following template**
+Name of Test = NAME
+Syllabus = SYLLABUS
+Standard = STANDARD
+Number of Questions = NUMBER
+Maximum Time = MAX-TIME (in minutes)
+Marks for Correct Answer = MARK
+Marks for Incorrect Answer = MARK
+Difficulty Level = Moderate
+Please ensure that the JSON file follows the given template.
 
 {
     "name": "Paper Name",
