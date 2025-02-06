@@ -15,6 +15,7 @@ async function innitiateTest() {
     const data = await response.json();
     document.title = data.name;
     document.getElementById('test-name').innerText = data.name;
+    document.getElementById('general-information').innerHTML = data["general-information"];
     let i = 0;
     for (element in data.questions){
         i++;
