@@ -1,130 +1,187 @@
 {
-  "name": "Example",
-  "duration": 20,
-  "standard": "6th",
-  "syllabus": "components of food, sorting material into group, motion, playing with magnet",
-  "numberOfQuestions": 10,
-  "difficultyLevel": "Moderate",
-  "questions": {
-    "1": {
-      "question": "Which of the following is a component of food?",
-      "options": {
-        "1": "Plastic",
-        "2": "Vitamins",
-        "3": "Wood",
-        "4": "Metal"
+    "name": "Physics JEE Mains Test",
+    "duration": 30,
+    "general-information": "<h3>General Instructions:</h3><p>This Physics test is designed for JEE Mains aspirants. It covers Units and Dimensions, Kinematics, Laws of Motion, Electrostatics, and Modern Physics. The test duration is 30 minutes. Each question carries 4 marks for a correct answer and -1 mark for an incorrect answer. No marks will be awarded for unattempted questions. The overall difficulty level of the paper is Moderate. Please ensure you read each question carefully before attempting it.</p><h4>Marking Scheme:</h4><ul><li>Correct Answer: +4</li><li>Incorrect Answer: -1</li><li>Unattempted: 0</li></ul>",
+    "questions": {
+      "1": {
+        "question": "The dimensions of Planck's constant are the same as that of:",
+        "options": {
+          "1": "Angular momentum",
+          "2": "Linear momentum",
+          "3": "Frequency",
+          "4": "Energy"
+        },
+        "answer": 1,
+        "correctMarks": 4,
+        "incorrectMarks": -1
       },
-      "answer": 2,
-      "correctMarks": 4,
-      "incorrectMarks": -1
-    },
-    "2": {
-      "question": "Materials can be sorted into groups based on their:",
-      "options": {
-        "1": "Color",
-        "2": "Shape",
-        "3": "Texture",
-        "4": "All of the above"
+      "2": {
+        "question": "A body is projected vertically upwards with a velocity 'u'. The time taken by it to reach the highest point is:",
+        "options": {
+          "1": "u/g",
+          "2": "2u/g",
+          "3": "u^2/2g",
+          "4": "√u/g"
+        },
+        "answer": 1,
+        "correctMarks": 4,
+        "incorrectMarks": -1
       },
-      "answer": 4,
-      "correctMarks": 4,
-      "incorrectMarks": -1
-    },
-    "3": {
-      "question": "Which of these is an example of motion?",
-      "options": {
-        "1": "A book on a table",
-        "2": "A car moving down the street",
-        "3": "A tree standing still",
-        "4": "A rock on the ground"
+      "3": {
+        "question": "Newton's first law of motion is also known as the law of:",
+        "options": {
+          "1": "Inertia",
+          "2": "Force",
+          "3": "Momentum",
+          "4": "Acceleration"
+        },
+        "answer": 1,
+        "correctMarks": 4,
+        "incorrectMarks": -1
       },
-      "answer": 2,
-      "correctMarks": 4,
-      "incorrectMarks": -1
-    },
-    "4": {
-      "question": "Magnets attract:",
-      "options": {
-        "1": "Plastic",
-        "2": "Wood",
-        "3": "Iron",
-        "4": "Cloth"
+      "4": {
+        "question": "Two point charges +q and -q are placed at a certain distance apart. The force acting between them is F. If the distance is halved, the force becomes:",
+        "options": {
+          "1": "F/2",
+          "2": "F",
+          "3": "2F",
+          "4": "4F"
+        },
+        "answer": 4,
+        "correctMarks": 4,
+        "incorrectMarks": -1
       },
-      "answer": 3,
-      "correctMarks": 4,
-      "incorrectMarks": -1
-    },
-    "5": {
-      "question": "Which food group provides us with energy?",
-      "options": {
-        "1": "Fruits and Vegetables",
-        "2": "Grains and Carbohydrates",
-        "3": "Dairy Products",
-        "4": "Proteins"
+      "5": {
+        "question": "Which of the following radiations has the highest frequency?",
+        "options": {
+          "1": "Radio waves",
+          "2": "Microwaves",
+          "3": "Infrared rays",
+          "4": "Ultraviolet rays"
+        },
+        "answer": 4,
+        "correctMarks": 4,
+        "incorrectMarks": -1
       },
-      "answer": 2,
-      "correctMarks": 4,
-      "incorrectMarks": -1
-    },
-    "6": {
-      "question": "Which of these is NOT a property used to sort materials?",
-      "options": {
-        "1": "Smell",
-        "2": "Taste",
-        "3": "Price",
-        "4": "Size"
+      "6": {
+        "question": "The velocity-time graph of a uniformly accelerated motion is:",
+        "options": {
+          "1": "A straight line inclined to the time axis",
+          "2": "A straight line parallel to the time axis",
+          "3": "A parabola",
+          "4": "A hyperbola"
+        },
+        "answer": 1,
+        "correctMarks": 4,
+        "incorrectMarks": -1
       },
-      "answer": 3,
-      "correctMarks": 4,
-      "incorrectMarks": -1
-    },
-    "7": {
-      "question": "A change in the position of an object is called:",
-      "options": {
-        "1": "Rest",
-        "2": "Motion",
-        "3": "Force",
-        "4": "Energy"
+      "7": {
+        "question": "The work done by a conservative force is:",
+        "options": {
+          "1": "Path dependent",
+          "2": "Path independent",
+          "3": "Always positive",
+          "4": "Always negative"
+        },
+        "answer": 2,
+        "correctMarks": 4,
+        "incorrectMarks": -1
       },
-      "answer": 2,
-      "correctMarks": 4,
-      "incorrectMarks": -1
-    },
-    "8": {
-      "question": "Which pole of a magnet attracts another magnet?",
-      "options": {
-        "1": "North pole",
-        "2": "South pole",
-        "3": "Both North and South poles",
-        "4": "None of the above"
+      "8": {
+        "question": "Coulomb's law gives the force between:",
+        "options": {
+          "1": "Two point charges",
+          "2": "Two charged plates",
+          "3": "A point charge and a charged plate",
+          "4": "Two current carrying wires"
+        },
+        "answer": 1,
+        "correctMarks": 4,
+        "incorrectMarks": -1
       },
-      "answer": 3,
-      "correctMarks": 4,
-      "incorrectMarks": -1
-    },
-    "9": {
-      "question": "Why is a balanced diet important?",
-      "options": {
-        "1": "To gain weight",
-        "2": "For proper growth and development",
-        "3": "To eat a lot of junk food",
-        "4": "To become unhealthy"
+      "9": {
+        "question": "The photoelectric effect demonstrates the:",
+        "options": {
+          "1": "Wave nature of light",
+          "2": "Particle nature of light",
+          "3": "Dual nature of light",
+          "4": "Electromagnetic nature of light"
+        },
+        "answer": 2,
+        "correctMarks": 4,
+        "incorrectMarks": -1
       },
-      "answer": 2,
-      "correctMarks": 4,
-      "incorrectMarks": -1
-    },
-    "10": {
-      "question": "What is the process of grouping similar objects together called?",
-      "options": {
-        "1": "Mixing",
-        "2": "Sorting",
-        "3": "Separating",
-        "4": "Combining"
+      "10": {
+        "question": "The SI unit of force is:",
+        "options": {
+          "1": "Newton",
+          "2": "Dyne",
+          "3": "Joule",
+          "4": "Watt"
+        },
+        "answer": 1,
+        "correctMarks": 4,
+        "incorrectMarks": -1
       },
-      "answer": 2,
-      "correctMarks": 4,
-      "incorrectMarks": -1
+      "11": {
+        "question": "A projectile is thrown with a velocity 'v' at an angle 'θ' with the horizontal. The maximum height reached by it is:",
+        "options": {
+          "1": "v^2sin^2θ/2g",
+          "2": "v^2sinθ/2g",
+          "3": "v^2cos^2θ/2g",
+          "4": "v^2cosθ/2g"
+        },
+        "answer": 1,
+        "correctMarks": 4,
+        "incorrectMarks": -1
+      },
+      "12": {
+        "question": "The impulse of a force is equal to the change in:",
+        "options": {
+          "1": "Momentum",
+          "2": "Kinetic energy",
+          "3": "Potential energy",
+          "4": "Velocity"
+        },
+        "answer": 1,
+        "correctMarks": 4,
+        "incorrectMarks": -1
+      },
+      "13": {
+        "question": "The electric field inside a charged conductor is:",
+        "options": {
+          "1": "Zero",
+          "2": "Constant",
+          "3": "Variable",
+          "4": "Infinite"
+        },
+        "answer": 1,
+        "correctMarks": 4,
+        "incorrectMarks": -1
+      },
+      "14": {
+        "question": "Radioactivity is a:",
+        "options": {
+          "1": "Nuclear phenomenon",
+          "2": "Chemical phenomenon",
+          "3": "Physical phenomenon",
+          "4": "Electromagnetic phenomenon"
+        },
+        "answer": 1,
+        "correctMarks": 4,
+        "incorrectMarks": -1
+      },
+      "15": {
+        "question": "The dimensional formula for energy is:",
+        "options": {
+          "1": "ML^2T^-2",
+          "2": "MLT^-2",
+          "3": "ML^2T^-1",
+          "4": "MLT^-1"
+        },
+        "answer": 1,
+        "correctMarks": 4,
+        "incorrectMarks": -1
+      }
     }
   }
-}
