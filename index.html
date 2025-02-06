@@ -23,6 +23,7 @@
             text-align: center;
         }
         *{
+            list-style: none;
             padding: 0;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             padding: 0;
@@ -173,13 +174,17 @@
                             <div class="answering-area" id="answering-area">Loading...</div>
                         </div>
                         <div class="navigation">
-                            <button id="skip">Skip</button>
+                            <button id="skip" onclick="skip()">Skip</button>
                             <button id="next" onclick="saveAndNext()">Save and Next</button>
 
                         </div>
                     </div>
                 </div>
                 <div id="start-button">
+                    <div class="general-information" style="text-align: start;" id="general-information">
+
+                    </div>
+                    <div class="spac-vert"></div>
                     <button id="start" onclick="start()">Start your Test</button>
                 </div>
                 <div id="score-card">
