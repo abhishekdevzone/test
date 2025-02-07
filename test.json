@@ -1,187 +1,259 @@
 {
-    "name": "Physics 01",
-    "duration": 30,
-    "general-information": "<h3>General Instructions:</h3><p>This Physics test is designed for JEE Mains aspirants. It covers Units and Dimensions, Kinematics, Laws of Motion, Electrostatics, and Modern Physics. The test duration is 30 minutes. Each question carries 4 marks for a correct answer and -1 mark for an incorrect answer. No marks will be awarded for unattempted questions. The overall difficulty level of the paper is Moderate. Please ensure you read each question carefully before attempting it.</p><h4>Marking Scheme:</h4><ul><li>Correct Answer: +4</li><li>Incorrect Answer: -1</li><li>Unattempted: 0</li></ul>",
-    "questions": {
-      "1": {
-        "question": "The dimensions of Planck's constant are the same as that of:",
-        "options": {
-          "1": "Angular momentum",
-          "2": "Linear momentum",
-          "3": "Frequency",
-          "4": "Energy"
-        },
-        "answer": 1,
-        "correctMarks": 4,
-        "incorrectMarks": -1
+  "name": "Maths Test",
+  "standard": "6th",
+  "syllabus": [
+    "Fraction",
+    "Decimal",
+    "Data Handling",
+    "Algebra",
+    "Integer",
+    "Play with Number",
+    "Ratio",
+    "Mensuration"
+  ],
+  "duration": 60,
+  "difficulty": "Moderate to Difficult",
+  "questions": {
+    "1": {
+      "question": "What is the sum of 1/2 and 1/4?",
+      "options": {
+        "1": "1/6",
+        "2": "2/6",
+        "3": "3/4",
+        "4": "2/8"
       },
-      "2": {
-        "question": "A body is projected vertically upwards with a velocity 'u'. The time taken by it to reach the highest point is:",
-        "options": {
-          "1": "u/g",
-          "2": "2u/g",
-          "3": "u^2/2g",
-          "4": "√u/g"
-        },
-        "answer": 1,
-        "correctMarks": 4,
-        "incorrectMarks": -1
+      "answer": 3,
+      "correctMarks": 1,
+      "incorrectMarks": 0
+    },
+    "2": {
+      "question": "Convert 0.75 into a fraction.",
+      "options": {
+        "1": "1/4",
+        "2": "3/4",
+        "3": "7/5",
+        "4": "75/10"
       },
-      "3": {
-        "question": "Newton's first law of motion is also known as the law of:",
-        "options": {
-          "1": "Inertia",
-          "2": "Force",
-          "3": "Momentum",
-          "4": "Acceleration"
-        },
-        "answer": 1,
-        "correctMarks": 4,
-        "incorrectMarks": -1
+      "answer": 2,
+      "correctMarks": 1,
+      "incorrectMarks": 0
+    },
+    "3": {
+      "question": "The average of 5, 10, and 15 is?",
+      "options": {
+        "1": "5",
+        "2": "10",
+        "3": "15",
+        "4": "30"
       },
-      "4": {
-        "question": "Two point charges +q and -q are placed at a certain distance apart. The force acting between them is F. If the distance is halved, the force becomes:",
-        "options": {
-          "1": "F/2",
-          "2": "F",
-          "3": "2F",
-          "4": "4F"
-        },
-        "answer": 4,
-        "correctMarks": 4,
-        "incorrectMarks": -1
+      "answer": 2,
+      "correctMarks": 1,
+      "incorrectMarks": 0
+    },
+    "4": {
+      "question": "Solve for x: x + 5 = 10",
+      "options": {
+        "1": "x = 5",
+        "2": "x = 10",
+        "3": "x = 15",
+        "4": "x = -5"
       },
-      "5": {
-        "question": "Which of the following radiations has the highest frequency?",
-        "options": {
-          "1": "Radio waves",
-          "2": "Microwaves",
-          "3": "Infrared rays",
-          "4": "Ultraviolet rays"
-        },
-        "answer": 4,
-        "correctMarks": 4,
-        "incorrectMarks": -1
+      "answer": 1,
+      "correctMarks": 1,
+      "incorrectMarks": 0
+    },
+    "5": {
+      "question": "Which integer is smaller: -5 or -2?",
+      "options": {
+        "1": "-5",
+        "2": "-2",
+        "3": "0",
+        "4": "Both are equal"
       },
-      "6": {
-        "question": "The velocity-time graph of a uniformly accelerated motion is:",
-        "options": {
-          "1": "A straight line inclined to the time axis",
-          "2": "A straight line parallel to the time axis",
-          "3": "A parabola",
-          "4": "A hyperbola"
-        },
-        "answer": 1,
-        "correctMarks": 4,
-        "incorrectMarks": -1
+      "answer": 1,
+      "correctMarks": 1,
+      "incorrectMarks": 0
+    },
+    "6": {
+      "question": "What are the factors of 12?",
+      "options": {
+        "1": "1, 2, 3, 4, 6",
+        "2": "1, 2, 3, 4, 6, 12",
+        "3": "2, 4, 6, 12",
+        "4": "1, 12"
       },
-      "7": {
-        "question": "The work done by a conservative force is:",
-        "options": {
-          "1": "Path dependent",
-          "2": "Path independent",
-          "3": "Always positive",
-          "4": "Always negative"
-        },
-        "answer": 2,
-        "correctMarks": 4,
-        "incorrectMarks": -1
+      "answer": 2,
+      "correctMarks": 1,
+      "incorrectMarks": 0
+    },
+    "7": {
+      "question": "The ratio of boys to girls is 2:3. If there are 10 boys, how many girls are there?",
+      "options": {
+        "1": "10",
+        "2": "15",
+        "3": "20",
+        "4": "5"
       },
-      "8": {
-        "question": "Coulomb's law gives the force between:",
-        "options": {
-          "1": "Two point charges",
-          "2": "Two charged plates",
-          "3": "A point charge and a charged plate",
-          "4": "Two current carrying wires"
-        },
-        "answer": 1,
-        "correctMarks": 4,
-        "incorrectMarks": -1
+      "answer": 2,
+      "correctMarks": 1,
+      "incorrectMarks": 0
+    },
+    "8": {
+      "question": "The perimeter of a square with side 5cm is?",
+      "options": {
+        "1": "10cm",
+        "2": "20cm",
+        "3": "25cm",
+        "4": "50cm"
       },
-      "9": {
-        "question": "The photoelectric effect demonstrates the:",
-        "options": {
-          "1": "Wave nature of light",
-          "2": "Particle nature of light",
-          "3": "Dual nature of light",
-          "4": "Electromagnetic nature of light"
-        },
-        "answer": 2,
-        "correctMarks": 4,
-        "incorrectMarks": -1
+      "answer": 2,
+      "correctMarks": 1,
+      "incorrectMarks": 0
+    },
+    "9": {
+      "question": "Simplify 3/9",
+      "options": {
+        "1": "1/3",
+        "2": "3/9",
+        "3": "9/3",
+        "4": "1/9"
       },
-      "10": {
-        "question": "The SI unit of force is:",
-        "options": {
-          "1": "Newton",
-          "2": "Dyne",
-          "3": "Joule",
-          "4": "Watt"
-        },
-        "answer": 1,
-        "correctMarks": 4,
-        "incorrectMarks": -1
+      "answer": 1,
+      "correctMarks": 1,
+      "incorrectMarks": 0
+    },
+    "10": {
+      "question": "Convert 1/5 to decimal",
+      "options": {
+        "1": "0.1",
+        "2": "0.2",
+        "3": "0.5",
+        "4": "1.5"
       },
-      "11": {
-        "question": "A projectile is thrown with a velocity 'v' at an angle 'θ' with the horizontal. The maximum height reached by it is:",
-        "options": {
-          "1": "v^2sin^2θ/2g",
-          "2": "v^2sinθ/2g",
-          "3": "v^2cos^2θ/2g",
-          "4": "v^2cosθ/2g"
-        },
-        "answer": 1,
-        "correctMarks": 4,
-        "incorrectMarks": -1
+      "answer": 2,
+      "correctMarks": 1,
+      "incorrectMarks": 0
+    },
+    "11": {
+      "question": "What is the range of the data: 2, 5, 8, 11, 14?",
+      "options": {
+        "1": "10",
+        "2": "12",
+        "3": "14",
+        "4": "5"
       },
-      "12": {
-        "question": "The impulse of a force is equal to the change in:",
-        "options": {
-          "1": "Momentum",
-          "2": "Kinetic energy",
-          "3": "Potential energy",
-          "4": "Velocity"
-        },
-        "answer": 1,
-        "correctMarks": 4,
-        "incorrectMarks": -1
+      "answer": 2,
+      "correctMarks": 1,
+      "incorrectMarks": 0
+    },
+    "12": {
+      "question": "If 2x - 3 = 7, then x = ?",
+      "options": {
+        "1": "2",
+        "2": "5",
+        "3": "10",
+        "4": "2.5"
       },
-      "13": {
-        "question": "The electric field inside a charged conductor is:",
-        "options": {
-          "1": "Zero",
-          "2": "Constant",
-          "3": "Variable",
-          "4": "Infinite"
-        },
-        "answer": 1,
-        "correctMarks": 4,
-        "incorrectMarks": -1
+      "answer": 2,
+      "correctMarks": 1,
+      "incorrectMarks": 0
+    },
+    "13": {
+      "question": "Which is greater: -3 or -8?",
+      "options": {
+        "1": "-3",
+        "2": "-8",
+        "3": "They are equal",
+        "4": "Cannot be determined"
       },
-      "14": {
-        "question": "Radioactivity is a:",
-        "options": {
-          "1": "Nuclear phenomenon",
-          "2": "Chemical phenomenon",
-          "3": "Physical phenomenon",
-          "4": "Electromagnetic phenomenon"
-        },
-        "answer": 1,
-        "correctMarks": 4,
-        "incorrectMarks": -1
+      "answer": 1,
+      "correctMarks": 1,
+      "incorrectMarks": 0
+    },
+    "14": {
+      "question": "Find the prime factors of 36",
+      "options": {
+        "1": "2, 3",
+        "2": "2, 2, 3, 3",
+        "3": "4, 9",
+        "4": "6, 6"
       },
-      "15": {
-        "question": "The dimensional formula for energy is:",
-        "options": {
-          "1": "ML^2T^-2",
-          "2": "MLT^-2",
-          "3": "ML^2T^-1",
-          "4": "MLT^-1"
-        },
-        "answer": 1,
-        "correctMarks": 4,
-        "incorrectMarks": -1
-      }
+      "answer": 2,
+      "correctMarks": 1,
+      "incorrectMarks": 0
+    },
+    "15": {
+      "question": "If a:b = 3:4 and b:c = 4:5, then a:c = ?",
+      "options": {
+        "1": "3:4",
+        "2": "3:5",
+        "3": "4:5",
+        "4": "9:16"
+      },
+      "answer": 2,
+      "correctMarks": 1,
+      "incorrectMarks": 0
+    },
+    "16": {
+      "question": "The area of a rectangle with length 8cm and breadth 4cm is?",
+      "options": {
+        "1": "12 sq. cm",
+        "2": "24 sq. cm",
+        "3": "32 sq. cm",
+        "4": "48 sq. cm"
+      },
+      "answer": 3,
+      "correctMarks": 1,
+      "incorrectMarks": 0
+    },
+    "17": {
+      "question": "What is 2/3 of 30?",
+      "options": {
+        "1": "10",
+        "2": "20",
+        "3": "15",
+        "4": "30"
+      },
+      "answer": 2,
+      "correctMarks": 1,
+      "incorrectMarks": 0
+    },
+    "18": {
+      "question": "Convert 2.5 to a mixed fraction",
+      "options": {
+        "1": "2 1/2",
+        "2": "2 1/4",
+        "3": "5/2",
+        "4": "25/10"
+      },
+      "answer": 1,
+      "correctMarks": 1,
+      "incorrectMarks": 0
+    },
+    "19": {
+      "question": "The mode of the data: 2, 5, 2, 8, 5, 2, 1 is?",
+      "options": {
+        "1": "1",
+        "2": "2",
+        "3": "5",
+        "4": "8"
+      },
+      "answer": 2,
+      "correctMarks": 1,
+      "incorrectMarks": 0
+    },
+    "20": {
+      "question": "The volume of a cube with side 3cm is?",
+      "options": {
+        "1": "9 cu. cm",
+        "2": "18 cu. cm",
+        "3": "27 cu. cm",
+        "4": "54 cu. cm"
+      },
+      "answer": 3,
+      "correctMarks": 1,
+      "incorrectMarks": 0
     }
   }
+}
+
